@@ -1,52 +1,42 @@
 #  Bioinformática para el Diagnóstico Molecular
 
-## Bienvenidos
+Bienvenidas y bienvenidos al repositorio del curso **Bioinformática para el Diagnóstico Molecular**.
 
-Bienvenidas y bienvenidos al repositorio oficial del curso **Bioinformática para el Diagnóstico Molecular**.
-
-Durante las primeras semanas del curso utilizaremos este repositorio para aprender a trabajar en un entorno Linux mediante la línea de comandos (Unix), utilizando **GitHub Codespaces** como plataforma de trabajo. De esta forma, todos los estudiantes podrán realizar las actividades prácticas desde un mismo entorno, independiente de si utilizan Windows, macOS o Linux.
+Durante las dos primeras semanas utilizaremos este espacio para aprender a trabajar con la línea de comandos Unix mediante **GitHub Codespaces**. Esto permitirá que todos trabajemos en el mismo entorno, independientemente del sistema operativo del computador.
 
 ---
 
-# Docente
+##  Docente
 
 **MSc. Alejandra Zazueta Hernández**
 
-Universidad del Desarrollo
-
 ---
 
-#  Objetivos de estas primeras semanas
+##  Objetivos
 
-Al finalizar esta unidad serás capaz de:
+Al finalizar estas dos semanas, podrán:
 
-- Comprender por qué Unix/Linux es el sistema operativo más utilizado en bioinformática.
-- Navegar por directorios utilizando la terminal.
+- Reconocer los elementos básicos de la línea de comandos Unix.
+- Navegar entre directorios desde la terminal.
 - Crear, copiar, mover y eliminar archivos y carpetas.
-- Manipular archivos de texto mediante comandos básicos.
-- Trabajar con archivos utilizados en bioinformática (FASTA, FASTQ, CSV y TSV).
-- Desarrollar una base sólida para las siguientes unidades del curso.
+- Visualizar y manipular archivos de texto.
+- Utilizar comandos básicos para explorar datos.
+- Trabajar con archivos utilizados en bioinformática.
 
 ---
 
-#  Organización
+##  Organización
 
-## Semana 1
+### Semana 1: Introducción a Unix
 
-### Introducción a la Bioinformática y Unix
+**Contenidos**
 
-**Teoría**
+- Introducción a la bioinformática y la ciencia de datos.
+- Introducción a la línea de comandos Unix.
+- Navegación por directorios.
+- Creación y organización de archivos y carpetas.
 
-- Introducción a la Bioinformática.
-- Ciencia de datos.
-- ¿Qué es Unix?
-- La terminal de comandos.
-
-**Práctico**
-
-Primeros pasos con la línea de comandos.
-
-Aprenderemos a utilizar comandos como:
+**Comandos principales**
 
 ```bash
 pwd
@@ -57,28 +47,24 @@ touch
 cp
 mv
 rm
-cat
 clear
 ```
 
 ---
 
-## Semana 2
+### Semana 2: Manipulación de datos en Unix
 
-### Manipulación de datos en Unix
+**Contenidos**
 
-**Teoría**
+- Herramientas para el procesamiento de datos en Unix.
+- Visualización de archivos.
+- Búsqueda, filtrado y conteo de información.
+- Manipulación de archivos utilizados en bioinformática.
 
-- Herramientas para el procesamiento de datos.
-- Buenas prácticas en la línea de comandos.
-
-**Práctico**
-
-Manipulación de archivos utilizando la terminal.
-
-Nuevos comandos:
+**Comandos principales**
 
 ```bash
+cat
 head
 tail
 less
@@ -87,104 +73,58 @@ wc
 sort
 uniq
 cut
-history
 ```
 
-Aplicaremos estos comandos utilizando archivos reales de bioinformática.
+---
+
+##  ¿Cómo comenzar?
+
+1. Ingresar a este repositorio.
+2. Seleccionar el botón **Code**.
+3. Abrir la pestaña **Codespaces**.
+4. Seleccionar **Create codespace on main**.
+5. Esperar mientras se prepara el entorno.
+6. Abrir la terminal.
+7. Seguir las instrucciones de la semana correspondiente.
 
 ---
 
-#  ¿Cómo comenzar?
+##  Organización del repositorio
 
-## Paso 1
-
-Crear una cuenta en GitHub.
-
-https://github.com
-
----
-
-## Paso 2
-
-Abrir este repositorio.
-
----
-
-## Paso 3
-
-Seleccionar
-
-**Code → Codespaces → Create codespace on main**
-
-Esperar unos minutos mientras GitHub prepara el entorno.
-
----
-
-## Paso 4
-
-Abrir la Terminal.
-
-Todo el trabajo práctico del curso se realizará desde la línea de comandos.
-
----
-
-#  Organización del repositorio
-
-```
+```text
 Bioinformatica/
 │
 ├── Semana_01_Introduccion_Unix/
+│   ├── Guia_Estudiante.md
+│   ├── Actividad_1.md
+│   └── datos/
 │
-├── Semana_02_Manipulacion_Archivos/
+├── Semana_02_Manipulacion_Datos/
+│   ├── Guia_Estudiante.md
+│   ├── Actividad_2.md
+│   └── datos/
 │
-├── datos/
-│
-├── scripts/
-│
-└── recursos/
+└── Guia_Docente/
+    └── Soluciones.md
 ```
 
 ---
 
-#  Recursos
+##  Entorno de trabajo
 
-En este repositorio encontrarás:
-
-- Guías de laboratorio.
-- Presentaciones.
-- Archivos de ejemplo.
-- Datos para las actividades.
-- Scripts utilizados en clases.
-- Material complementario.
-
----
-
-#  Entorno de trabajo
-
-Durante las actividades utilizaremos:
+Durante estas actividades utilizaremos:
 
 - GitHub
 - GitHub Codespaces
-- Terminal Linux (Unix)
+- Terminal Linux
+- Comandos Unix
 
-No será necesario instalar programas adicionales para las dos primeras semanas del curso.
-
----
-
-#  Comunicación
-
-Toda la información del curso (avisos, calendario, evaluaciones y material complementario) será publicada a través de **Canvas**.
+No será necesario instalar programas adicionales en el computador.
 
 ---
 
-#  Contacto
+##  Comunicación
 
-Si tienes dudas sobre las actividades prácticas, puedes consultarlas durante las clases o mediante Canvas.
+Los avisos, evaluaciones, lecturas y material complementario del curso serán publicados en **Canvas**.
 
----
-
-## ¡Bienvenido(a)!
-
-Esperamos que este repositorio sea tu espacio de trabajo durante el semestre y que te ayude a desarrollar una base sólida para el uso de herramientas de bioinformática.
-
-¡Mucho éxito!
+Las dudas relacionadas con las actividades podrán ser consultadas durante las clases o mediante Canvas.
