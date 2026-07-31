@@ -1,4 +1,4 @@
-# 🧬 Bioinformática para el Diagnóstico Molecular
+#  Bioinformática para el Diagnóstico Molecular
 
 ## Bienvenidos
 
@@ -8,7 +8,7 @@ Durante las primeras semanas del curso utilizaremos este repositorio para aprend
 
 ---
 
-# 👩‍🏫 Docente
+# Docente
 
 **MSc. Alejandra Zazueta Hernández**
 
@@ -16,7 +16,7 @@ Universidad del Desarrollo
 
 ---
 
-# 🎯 Objetivos de estas primeras semanas
+#  Objetivos de estas primeras semanas
 
 Al finalizar esta unidad serás capaz de:
 
@@ -29,7 +29,7 @@ Al finalizar esta unidad serás capaz de:
 
 ---
 
-# 📅 Organización
+#  Organización
 
 ## Semana 1
 
@@ -94,7 +94,7 @@ Aplicaremos estos comandos utilizando archivos reales de bioinformática.
 
 ---
 
-# 🚀 ¿Cómo comenzar?
+#  ¿Cómo comenzar?
 
 ## Paso 1
 
@@ -128,7 +128,7 @@ Todo el trabajo práctico del curso se realizará desde la línea de comandos.
 
 ---
 
-# 📂 Organización del repositorio
+#  Organización del repositorio
 
 ```
 Bioinformatica/
@@ -146,7 +146,7 @@ Bioinformatica/
 
 ---
 
-# 📖 Recursos
+#  Recursos
 
 En este repositorio encontrarás:
 
@@ -159,7 +159,7 @@ En este repositorio encontrarás:
 
 ---
 
-# 💻 Entorno de trabajo
+#  Entorno de trabajo
 
 Durante las actividades utilizaremos:
 
@@ -171,13 +171,13 @@ No será necesario instalar programas adicionales para las dos primeras semanas 
 
 ---
 
-# 📢 Comunicación
+#  Comunicación
 
 Toda la información del curso (avisos, calendario, evaluaciones y material complementario) será publicada a través de **Canvas**.
 
 ---
 
-# 📬 Contacto
+#  Contacto
 
 Si tienes dudas sobre las actividades prácticas, puedes consultarlas durante las clases o mediante Canvas.
 
