@@ -1,127 +1,80 @@
 
-# Semana 1: Introducción a Unix y GitHub Codespaces
+# Semana 1: Introducción a la Bioinformática y Unix
 
-## Objetivos de aprendizaje
+## Presentación
 
-Al finalizar esta semana serás capaz de:
-
-- Comprender qué es Unix y por qué se utiliza en bioinformática.
-- Acceder a un entorno Linux mediante GitHub Codespaces.
-- Navegar entre directorios utilizando la terminal.
-- Crear, copiar, mover y eliminar archivos y carpetas.
-- Reconocer la estructura básica de un proyecto bioinformático.
+Durante esta semana revisaremos los conceptos fundamentales de la bioinformática y la ciencia de datos. Además, comenzaremos a utilizar la línea de comandos Unix para navegar por el sistema de archivos y manipular datos.
 
 ---
 
-# Antes de la clase
+## Resultados de aprendizaje
 
-Antes de asistir al laboratorio debes:
+Al finalizar esta semana, el estudiante será capaz de:
 
-- Crear una cuenta en GitHub.
-- Ingresar al repositorio del curso.
-- Leer esta guía.
-- Tener acceso a Canvas.
-
----
-
-# Actividad 1: Abrir GitHub Codespaces
-
-1. Ingresa al repositorio del curso.
-2. Haz clic en **Code**.
-3. Selecciona la pestaña **Codespaces**.
-4. Haz clic en **Create codespace on main**.
-5. Espera unos minutos mientras se prepara el entorno.
-
-Cuando finalice la carga, verás una ventana similar a Visual Studio Code con una terminal Linux.
+1. Comprender los conceptos de bioinformática y ciencia de datos y sus campos de acción.
+2. Reconocer comandos básicos para la manipulación de datos utilizando la consola Unix.
+3. Emplear comandos básicos en el análisis y organización de datos mediante la consola Unix.
 
 ---
 
-# Actividad 2: Conociendo la terminal
+## Contenidos
 
-Ejecuta los siguientes comandos uno por uno.
+### Clase 1.1: Introducción a la Bioinformática y la Ciencia de Datos
 
-## ¿Dónde estoy?
+En esta clase se abordarán:
 
-```bash
-pwd
+- definición de bioinformática;
+- carácter interdisciplinario de la bioinformática;
+- relación con las ciencias ómicas;
+- generación y almacenamiento de datos biológicos;
+- bases de datos bioinformáticas;
+- aplicaciones en diagnóstico molecular;
+- introducción a la ciencia de datos.
+---
+
+### Clase 1.2: Introducción a la línea de comandos Unix
+
+En esta clase se abordarán:
+
+- Linux y Unix;
+- terminal, shell y línea de comandos;
+- sistema de archivos;
+- rutas absolutas y relativas;
+- navegación entre directorios;
+- creación, copia, movimiento y eliminación de archivos;
+- descarga de archivos desde internet.
+---
+
+## Actividades de la semana
+
+Para completar la Semana 1 debes:
+
+- [ ] revisar las diapositivas de la Clase 1.1;
+- [ ] revisar las diapositivas de la Clase 1.2;
+- [ ] abrir el repositorio en GitHub Codespaces;
+- [ ] completar la práctica guiada de Unix;
+- [ ] resolver el ejercicio final;
+- [ ] completar las actividades indicadas en Canvas.
+
+---
+
+## Material disponible
+
+```text
+semana_01/
+├── clase_01_intro_bioinformatica/
+├── clase_02_linea_comandos/
+└── datos/
 ```
 
 ---
 
-## ¿Qué archivos existen?
+## Recomendaciones
 
-```bash
-ls
-```
+- Lee cuidadosamente cada instrucción antes de ejecutar un comando.
+- Recuerda que Unix distingue entre mayúsculas y minúsculas.
+- No utilices espacios en los nombres de archivos y carpetas durante las primeras actividades.
+- Verifica siempre tu ubicación con `pwd`.
+- Revisa el contenido de una carpeta con `ls` antes de modificar o eliminar archivos.
+- No ejecutes un comando si no comprendes qué acción realizará.
 
----
-
-## Crear una carpeta
-
-```bash
-mkdir Proyecto_Bioinformatica
-```
-
----
-
-## Entrar a la carpeta
-
-```bash
-cd Proyecto_Bioinformatica
-```
-
----
-
-## Crear un archivo
-
-```bash
-touch notas.txt
-```
-
----
-
-## Ver el contenido de la carpeta
-
-```bash
-ls
-```
-
----
-
-## Volver al directorio anterior
-
-```bash
-cd ..
-```
-
----
-
-# Desafío
-
-Crea la siguiente estructura utilizando únicamente la terminal.
-
-```
-Proyecto_Bioinformatica/
-
-├── datos/
-
-├── resultados/
-
-└── scripts/
-```
-
----
-
-# Entrega
-
-Al finalizar la actividad deberás mostrar la estructura creada al docente utilizando el comando:
-
-```bash
-ls
-```
-
----
-
-# Material complementario
-
-Durante la próxima clase aprenderemos a visualizar y manipular archivos de texto utilizando comandos de Unix.
