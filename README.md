@@ -84,8 +84,3 @@ Las instrucciones oficiales, evaluaciones, fechas y calificaciones estarán disp
 **Docente:** Alejandra Zazueta  
 **Correo:** a.zazueta@udd.cl
 
-
-
-Los avisos, evaluaciones, lecturas y material complementario del curso serán publicados en **Canvas**.
-
-Las dudas relacionadas con las actividades podrán ser consultadas durante las clases o mediante Canvas.
