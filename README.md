@@ -1,129 +1,90 @@
-#  Bioinformática para el Diagnóstico Molecular
+# Bioinformática en el Diagnóstico Molecular
 
-Bienvenidas y bienvenidos al repositorio del curso **Bioinformática para el Diagnóstico Molecular**.
+Repositorio oficial del curso **Bioinformática en el Diagnóstico Molecular**.
 
-Durante las dos primeras semanas utilizaremos este espacio para aprender a trabajar con la línea de comandos Unix mediante **GitHub Codespaces**. Esto permitirá que todos trabajemos en el mismo entorno, independientemente del sistema operativo del computador.
-
----
-
-##  Docente
-
-**MSc. Alejandra Zazueta Hernández**
+**Carrera:** Tecnología Médica  
+**Facultad:** Facultad de Medicina, Universidad del Desarrollo  
+**Docente:** Alejandra Zazueta  
+**Año académico:** 2026  
 
 ---
 
-##  Objetivos
+## Descripción del curso
 
-Al finalizar estas dos semanas, podrán:
+Este repositorio reúne los materiales teóricos, actividades prácticas, archivos de datos y recursos utilizados en el curso Bioinformática en el Diagnóstico Molecular.
 
-- Reconocer los elementos básicos de la línea de comandos Unix.
-- Navegar entre directorios desde la terminal.
-- Crear, copiar, mover y eliminar archivos y carpetas.
-- Visualizar y manipular archivos de texto.
-- Utilizar comandos básicos para explorar datos.
-- Trabajar con archivos utilizados en bioinformática.
+A lo largo del curso, los estudiantes aprenderán a utilizar herramientas computacionales para organizar, procesar, analizar e interpretar datos biológicos y biomédicos.
 
 ---
 
-##  Organización
+## Objetivos del repositorio
 
-### Semana 1: Introducción a Unix
+Este repositorio permitirá:
 
-**Contenidos**
+- acceder al material de cada semana;
+- trabajar con archivos biológicos de ejemplo;
+- practicar comandos de Unix;
+- ejecutar análisis bioinformáticos reproducibles;
+- utilizar GitHub Codespaces como entorno de trabajo;
+- registrar y documentar el avance de las actividades prácticas.
 
-- Introducción a la bioinformática y la ciencia de datos.
-- Introducción a la línea de comandos Unix.
-- Navegación por directorios.
-- Creación y organización de archivos y carpetas.
+---
 
-**Comandos principales**
+## Semanas
+
+### [Semana 1: Introducción a la Bioinformática y Unix](semana_01/README.md)
+
+Durante esta semana se revisarán los fundamentos de la bioinformática, la ciencia de datos y el uso inicial de la línea de comandos Unix.
+
+---
+
+## Cómo utilizar este repositorio
+
+Cada semana contiene:
+
+- resultados de aprendizaje;
+- diapositivas;
+- guías de estudio;
+- actividades prácticas;
+- archivos de datos;
+- ejercicios y desafíos.
+
+Los comandos que aparezcan en bloques como el siguiente deben ejecutarse en la terminal:
 
 ```bash
 pwd
-ls
-cd
-mkdir
-touch
-cp
-mv
-rm
-clear
 ```
 
----
-
-### Semana 2: Manipulación de datos en Unix
-
-**Contenidos**
-
-- Herramientas para el procesamiento de datos en Unix.
-- Visualización de archivos.
-- Búsqueda, filtrado y conteo de información.
-- Manipulación de archivos utilizados en bioinformática.
-
-**Comandos principales**
-
-```bash
-cat
-head
-tail
-less
-grep
-wc
-sort
-uniq
-cut
-```
+No debes copiar el símbolo `$` cuando aparezca delante de un comando.
 
 ---
 
-##  ¿Cómo comenzar?
+## Entorno de trabajo
 
-1. Ingresar a este repositorio.
-2. Seleccionar el botón **Code**.
-3. Abrir la pestaña **Codespaces**.
-4. Seleccionar **Create codespace on main**.
-5. Esperar mientras se prepara el entorno.
-6. Abrir la terminal.
-7. Seguir las instrucciones de la semana correspondiente.
+Las actividades prácticas se realizarán utilizando un entorno Linux mediante **GitHub Codespaces**.
 
----
-
-##  Organización del repositorio
+La configuración del entorno estará disponible en la carpeta:
 
 ```text
-Bioinformatica/
-│
-├── Semana_01_Introduccion_Unix/
-│   ├── Guia_Estudiante.md
-│   ├── Actividad_1.md
-│   └── datos/
-│
-├── Semana_02_Manipulacion_Datos/
-│   ├── Guia_Estudiante.md
-│   ├── Actividad_2.md
-│   └── datos/
-│
-└── Guia_Docente/
-    └── Soluciones.md
+.devcontainer/
 ```
 
 ---
 
-##  Entorno de trabajo
+## Canvas
 
-Durante estas actividades utilizaremos:
+Las instrucciones oficiales, evaluaciones, fechas y calificaciones estarán disponibles en Canvas.
 
-- GitHub
-- GitHub Codespaces
-- Terminal Linux
-- Comandos Unix
-
-No será necesario instalar programas adicionales en el computador.
+> Este repositorio complementa el aula virtual, pero no reemplaza las instrucciones publicadas en Canvas.
 
 ---
 
-##  Comunicación
+## Contacto
+
+**Docente:** Alejandra Zazueta  
+**Correo:** a.zazueta@udd.cl
+
+
 
 Los avisos, evaluaciones, lecturas y material complementario del curso serán publicados en **Canvas**.
 
