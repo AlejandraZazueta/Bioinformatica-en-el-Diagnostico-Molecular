@@ -77,16 +77,3 @@ ejercicios/
 Para lograrlo deberás emplear comandos de navegación, creación de directorios, descarga, cambio de nombre, copia y eliminación.
 
 ---
-
-## Lista de verificación
-
-- [ ] Abrí una terminal.
-- [ ] Ejecuté `pwd`.
-- [ ] Utilicé `ls`.
-- [ ] Creé un directorio con `mkdir`.
-- [ ] Navegué con `cd`.
-- [ ] Copié un archivo con `cp`.
-- [ ] Renombré o moví un archivo con `mv`.
-- [ ] Descargué un archivo con `curl` o `wget`.
-- [ ] Eliminé un archivo o directorio de prueba.
-- [ ] Consulté la ayuda de un comando.
