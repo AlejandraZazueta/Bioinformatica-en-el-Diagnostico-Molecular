@@ -1,0 +1,27 @@
+{
+  "name": "Bioinformática en el Diagnóstico Molecular",
+
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y tree wget curl nano less",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "yzhang.markdown-all-in-one",
+        "bierner.markdown-preview-github-styles"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash",
+        "files.autoSave": "afterDelay",
+        "editor.wordWrap": "on"
+      }
+    }
+  },
+
+  "remoteUser": "vscode"
+}
