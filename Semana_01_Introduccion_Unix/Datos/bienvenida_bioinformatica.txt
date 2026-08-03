@@ -1,0 +1,22 @@
+Bioinformática en el Diagnóstico Molecular
+Universidad del Desarrollo
+
+===========================================
+
+Bienvenido(a) al curso.
+
+Este archivo forma parte del Laboratorio 1.
+
+Durante esta práctica aprenderás a:
+
+- navegar por el sistema de archivos Linux;
+- crear y organizar directorios;
+- copiar y mover archivos;
+- descargar archivos desde GitHub;
+- trabajar utilizando GitHub Codespaces.
+
+Si puedes leer este archivo, significa que la descarga fue exitosa.
+
+
+Año académico:
+2026
