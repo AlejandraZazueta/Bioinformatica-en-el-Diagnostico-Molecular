@@ -32,7 +32,7 @@ Este repositorio permitirá:
 
 ## Semanas
 
-### [Semana 1: Introducción a la Bioinformática y Unix](semana_01/README.md)
+### [Semana 1: Introducción a la Bioinformática y Unix](Semana_01_Introduccion_Unix/README.md)
 
 Durante esta semana se revisarán los fundamentos de la bioinformática, la ciencia de datos y el uso inicial de la línea de comandos Unix.
 
