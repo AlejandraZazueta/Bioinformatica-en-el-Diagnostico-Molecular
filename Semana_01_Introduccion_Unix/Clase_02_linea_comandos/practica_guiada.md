@@ -106,8 +106,7 @@ datos
 
 Descarga el siguiente archivo utilizando **wget** o **curl**.
 
-```
-https://raw.githubusercontent.com/pablofbaez/Bioinfo_UDD_2022/refs/heads/main/simple_2.txt
+```[https://raw.githubusercontent.com/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/refs/heads/main/Semana_01_Introduccion_Unix/Datos/bienvenida_bioinformatica.txt ]
 ```
 
 Comprueba que el archivo fue descargado utilizando
