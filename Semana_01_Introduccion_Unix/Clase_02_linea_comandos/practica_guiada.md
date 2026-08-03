@@ -191,8 +191,6 @@ Responde brevemente.
 
 4. ¿Por qué es importante verificar la ubicación actual antes de utilizar `rm`?
 
-5. ¿Qué ventajas tiene trabajar en GitHub Codespaces en comparación con instalar Linux en tu computador?
-
 ---
 
 # Evidencia de aprendizaje
