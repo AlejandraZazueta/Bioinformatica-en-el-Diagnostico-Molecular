@@ -8,7 +8,7 @@ Bienvenido(a) a la **Semana 1** del curso. En esta sección encontrarás el mate
 
 Se recomienda seguir el siguiente orden:
 
-### 1. 📖 Clase 1.1 | Introducción a la Bioinformática y la Ciencia de Datos
+### 1. Clase 1.1 | Introducción a la Bioinformática y la Ciencia de Datos
 
 Conoce los conceptos fundamentales de la bioinformática, la ciencia de datos y sus principales aplicaciones en el diagnóstico molecular.
 
@@ -17,7 +17,7 @@ Conoce los conceptos fundamentales de la bioinformática, la ciencia de datos y 
 
 ---
 
-### 2. 💻 Clase 1.2 | Introducción a la línea de comandos Unix
+### 2. Clase 1.2 | Introducción a la línea de comandos Unix
 
 Aprende los conceptos básicos de Linux y la utilización de la terminal para navegar y manipular archivos y directorios.
 
@@ -35,7 +35,7 @@ Pon en práctica los comandos aprendidos utilizando **GitHub Codespaces**.
 
 ---
 
-### 4. 📄 Material de apoyo
+### 4.  Material de apoyo
 
 Consulta la guía de referencia rápida con los comandos utilizados durante esta semana.
 
