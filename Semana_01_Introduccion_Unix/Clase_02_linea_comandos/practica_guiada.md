@@ -106,7 +106,8 @@ datos
 
 Descarga el siguiente archivo utilizando **wget** o **curl**.
 
-```[https://raw.githubusercontent.com/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/refs/heads/main/Semana_01_Introduccion_Unix/Datos/bienvenida_bioinformatica.txt ]
+```bash
+[https://raw.githubusercontent.com/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/refs/heads/main/Semana_01_Introduccion_Unix/Datos/bienvenida_bioinformatica.txt ]
 ```
 
 Comprueba que el archivo fue descargado utilizando
