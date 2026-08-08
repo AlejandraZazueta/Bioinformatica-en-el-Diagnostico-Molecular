@@ -1,1 +1,11 @@
-
+gen,aplicacion,accesion
+BRCA1,cancer_hereditario,NM_007294.4
+BRCA2,cancer_hereditario,NM_000059.4
+CFTR,fibrosis_quistica,NM_000492.4
+HBB,hemoglobinopatias,NM_000518.5
+PAH,fenilcetonuria,NM_000277.3
+F5,trombofilia,NM_000130.5
+F2,trombofilia,NM_000506.5
+MLH1,sindrome_de_Lynch,NM_000249.4
+MSH2,sindrome_de_Lynch,NM_000251.3
+BRCA1,cancer_hereditario,NM_007294.4
