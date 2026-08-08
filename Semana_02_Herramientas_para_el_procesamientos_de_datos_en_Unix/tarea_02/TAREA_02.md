@@ -55,9 +55,8 @@ muestras_moleculares.csv
 Determina:
 
 1. ¿Cuántas muestras contiene el archivo?
-2. ¿Cuántas columnas contiene?
-3. ¿Qué información representa cada columna?
-4. ¿Qué genes aparecen en la tabla?
+2. ¿Qué información representa cada columna?
+3. ¿Qué genes aparecen en la tabla?
 
 No es necesario revisar manualmente todas las filas.
 
