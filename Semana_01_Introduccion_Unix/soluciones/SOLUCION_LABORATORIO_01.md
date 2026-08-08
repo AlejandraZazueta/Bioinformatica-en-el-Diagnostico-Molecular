@@ -3,7 +3,7 @@
 
 Esta pauta presenta una posible forma de resolver el Laboratorio 1.
 
-> 💡 En algunos ejercicios pueden existir diferentes comandos o rutas que conduzcan al mismo resultado.
+> En algunos ejercicios pueden existir diferentes comandos o rutas que conduzcan al mismo resultado.
 
 ---
 
