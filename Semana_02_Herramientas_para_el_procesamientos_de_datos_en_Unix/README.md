@@ -12,7 +12,7 @@ tablas y secuencias biológicas.
 
 ## Resultados de aprendizaje
 
-Al finalizar esta semana, el estudiante será capaz de:
+Al finalizar esta semana serás capaz de:
 
 1. Utilizar comandos básicos de Unix para inspeccionar y manipular archivos.
 2. Procesar archivos de texto y tablas mediante la terminal.
