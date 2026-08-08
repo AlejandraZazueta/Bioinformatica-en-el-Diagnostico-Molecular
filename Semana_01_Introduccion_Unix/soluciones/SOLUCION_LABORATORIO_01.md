@@ -337,7 +337,7 @@ ls
 
 La carpeta `documentos` ya no debería aparecer.
 
-> ⚠️ `rm` elimina archivos y `rm -r` puede eliminar directorios completos junto con su contenido. Por eso es importante comprobar la ubicación antes de ejecutarlo.
+>  `rm` elimina archivos y `rm -r` puede eliminar directorios completos junto con su contenido. Por eso es importante comprobar la ubicación antes de ejecutarlo.
 
 ---
 
