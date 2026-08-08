@@ -1,0 +1,13 @@
+muestra,paciente,tipo_muestra,gen,resultado
+M001,P01,sangre,BRCA1,positivo
+M002,P02,sangre,BRCA2,negativo
+M003,P03,sangre,CFTR,positivo
+M004,P04,sangre,HBB,negativo
+M005,P05,sangre,PAH,positivo
+M006,P06,sangre,F5,negativo
+M007,P07,sangre,F2,positivo
+M008,P08,sangre,BRCA1,negativo
+M009,P09,sangre,CFTR,negativo
+M010,P10,sangre,HBB,positivo
+M011,P11,sangre,BRCA1,positivo
+M012,P12,sangre,F5,negativo
