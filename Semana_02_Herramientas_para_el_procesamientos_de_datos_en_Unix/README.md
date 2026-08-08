@@ -44,19 +44,19 @@ Al finalizar esta semana serás capaz de:
 
 Procesamiento de un panel de genes asociado a diagnóstico molecular.
 
-➡️ [Ir al ejemplo guiado](./ejemplo_guiado/EJEMPLO_GUIADO.md)
+[Ir al ejemplo guiado](./ejemplo_guiado/EJEMPLO_GUIADO.md)
 
 ### 2. Laboratorio 2
 
 Aplicación de comandos Unix para inspeccionar y procesar datos biomoleculares.
 
-➡️ [Ir al Laboratorio 2](./laboratorio_02/LABORATORIO_02.md)
+[Ir al Laboratorio 2](./laboratorio_02/LABORATORIO_02.md)
 
 ### 3. Tarea 2
 
 Procesamiento de datos biomoleculares y recuperación de una secuencia desde NCBI.
 
-➡️ [Ir a la Tarea 2](./tarea_02/TAREA_02.md)
+[Ir a la Tarea 2](./tarea_02/TAREA_02.md)
 
 ---
 
@@ -64,7 +64,7 @@ Procesamiento de datos biomoleculares y recuperación de una secuencia desde NCB
 
 Los archivos necesarios para desarrollar las actividades se encuentran en:
 
-📁 [`datos/`](./datos/)
+[`datos/`](./datos/)
 
 ---
 
