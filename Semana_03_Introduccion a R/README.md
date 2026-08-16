@@ -70,9 +70,7 @@ Aprenderás a:
 
 ## Abrir el práctico
 
-[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_3/practico/Practico_1.3_Colab.ipynb
-)
+[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_03_Introduccion%20a%20R/Practico_1.3_Colab.ipynb)
 
 >  Durante el práctico no te limites a ejecutar el código. Antes de ejecutar cada celda, intenta predecir qué resultado obtendrás.
 
@@ -94,9 +92,7 @@ Deberás utilizar R para:
 
 ## Abrir la tarea
 
-[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_3/tarea/Tarea_3_Colab.ipynb
-)
+[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_03_Introduccion%20a%20R/Tarea_3_Colab.ipynb)
 
 ---
 
