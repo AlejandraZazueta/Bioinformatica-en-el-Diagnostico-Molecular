@@ -139,6 +139,6 @@ Los errores también forman parte del proceso de aprendizaje.
 
 ---
 
-## ➡️ Próxima semana
+##  Próxima semana
 
 En la siguiente semana avanzaremos desde instrucciones individuales hacia el trabajo con **conjuntos de datos**, preparando las bases para realizar análisis bioinformáticos reproducibles.
