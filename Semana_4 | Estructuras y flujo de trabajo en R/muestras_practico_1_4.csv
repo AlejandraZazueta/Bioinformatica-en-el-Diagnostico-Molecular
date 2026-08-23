@@ -1,7 +1,0 @@
-muestra,grupo,gen,expresion,detectado
-M01,Control,BRCA1,1.0,True
-M02,Control,BRCA1,1.2,True
-M03,Control,BRCA1,0.9,True
-M04,Tratamiento,BRCA1,2.1,True
-M05,Tratamiento,BRCA1,2.4,True
-M06,Tratamiento,BRCA1,1.9,True
