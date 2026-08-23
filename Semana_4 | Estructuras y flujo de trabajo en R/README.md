@@ -6,7 +6,7 @@ Avanzaremos desde los principales **tipos y estructuras de datos en R** hacia la
 
 ---
 
-## 🎯 Objetivos de la semana
+## Objetivos de la semana
 
 Al finalizar esta semana serás capaz de:
 
@@ -23,7 +23,7 @@ Al finalizar esta semana serás capaz de:
 
 ---
 
-# 📘 Clase 1.6 | Viaje a través de las estructuras en R
+# Clase 1.6 | Viaje a través de las estructuras en R
 
 En esta clase revisaremos cómo R almacena y organiza la información.
 
@@ -52,13 +52,13 @@ En esta clase revisaremos cómo R almacena y organiza la información.
 
 Durante la clase resolveremos **mini desafíos en Google Colab** para aplicar inmediatamente los contenidos revisados.
 
-### 💻 Mini desafíos Clase 1.6
+###  Mini desafíos Clase 1.6
 
-👉 [Abrir Mini desafíos Clase 1.6 en Google Colab](01_Clase_1.6_Mini_Desafios_Colab.ipynb)
+ [Abrir Mini desafíos Clase 1.6 en Google Colab](01_Clase_1.6_Mini_Desafios_Colab.ipynb)
 
 ---
 
-# 📘 Clase 1.7 | Flujo de trabajo en R: código, paquetes y documentos
+#  Clase 1.7 | Flujo de trabajo en R: código, paquetes y documentos
 
 En esta clase avanzaremos desde las estructuras de datos hacia la organización de un **flujo de análisis en R**.
 
@@ -79,7 +79,7 @@ En esta clase avanzaremos desde las estructuras de datos hacia la organización 
 - Documentación del análisis.
 - Reproducibilidad.
 
-### 💻 Mini desafíos Clase 1.7
+###  Mini desafíos Clase 1.7
 
 Durante la clase trabajaremos con pequeños desafíos para practicar:
 
@@ -90,11 +90,11 @@ Durante la clase trabajaremos con pequeños desafíos para practicar:
 - exploración de un archivo;
 - organización de un análisis reproducible.
 
-👉 [Abrir Mini desafíos Clase 1.7 en Google Colab](02_Clase_1.7_Mini_Desafios_Colab.ipynb)
+ [Abrir Mini desafíos Clase 1.7 en Google Colab](02_Clase_1.7_Mini_Desafios_Colab.ipynb)
 
 ---
 
-# 🧪 Práctico 1.4 | Estructuras y flujo de trabajo en R
+#  Práctico 1.4 | Estructuras y flujo de trabajo en R
 
 El práctico será **demostrativo y guiado**.
 
@@ -104,11 +104,11 @@ Integraremos los principales contenidos de las clases 1.6 y 1.7 siguiendo un flu
 
 Las operaciones estarán separadas para poder observar claramente el resultado producido por cada instrucción.
 
-### 💻 Notebook del práctico
+###  Notebook del práctico
 
-👉 [Abrir Práctico 1.4](03_Practico_1.4_Estructuras_y_flujo_de_trabajo_en_R.ipynb)
+ [Abrir Práctico 1.4](03_Practico_1.4_Estructuras_y_flujo_de_trabajo_en_R.ipynb)
 
-### 📂 Archivo necesario
+###  Archivo necesario
 
 Para realizar una parte del práctico utilizaremos:
 
@@ -124,7 +124,7 @@ Antes de ejecutar esa sección:
 
 ---
 
-# 📝 Tarea 4 | Aplicación individual
+#  Tarea 4 | Aplicación individual
 
 La **Tarea 4 es individual** y deberá desarrollarse en Google Colab.
 
@@ -143,17 +143,17 @@ La tarea incluye ejercicios relacionados con:
 - documentación del código;
 - organización de un flujo reproducible.
 
-### 💻 Tarea 4
+###  Tarea 4
 
-👉 [Abrir Tarea 4](04_Tarea_4_Individual.ipynb)
+ [Abrir Tarea 4](04_Tarea_4_Individual.ipynb)
 
-> ⚠️ **Importante:** esta actividad debe ser desarrollada de manera individual.
+>  **Importante:** esta actividad debe ser desarrollada de manera individual.
 
 La entrega se realizará a través de **Canvas**, siguiendo las instrucciones indicadas para la actividad.
 
 ---
 
-# ⭐ Punto extra para el control
+#  Punto extra para el control
 
 Al final de la Tarea 4 encontrarás un **desafío adicional**.
 
@@ -168,7 +168,7 @@ El objetivo no es utilizar funciones que no hemos revisado, sino **combinar corr
 
 ---
 
-# 📂 Archivos de la semana
+#  Archivos de la semana
 
 La carpeta de la Semana 4 está organizada de la siguiente manera:
 
@@ -190,7 +190,7 @@ La carpeta de la Semana 4 está organizada de la siguiente manera:
 
 ---
 
-# 📊 Importar datos en Google Colab
+#  Importar datos en Google Colab
 
 Durante esta semana utilizaremos archivos `.csv`.
 
@@ -198,7 +198,7 @@ Para trabajar con ellos en Google Colab:
 
 1. Descarga el archivo desde GitHub.
 2. Abre el notebook correspondiente.
-3. En Google Colab, selecciona el ícono **📁 Archivos**.
+3. En Google Colab, selecciona el ícono ** Archivos**.
 4. Selecciona **Subir al almacenamiento de la sesión**.
 5. Sube el archivo `.csv`.
 6. Verifica que el nombre coincida exactamente con el utilizado en el código.
