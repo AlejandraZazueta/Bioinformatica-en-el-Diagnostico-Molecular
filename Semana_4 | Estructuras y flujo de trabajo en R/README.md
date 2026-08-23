@@ -54,7 +54,7 @@ Durante la clase resolveremos **mini desafíos en Google Colab** para aplicar in
 
 ###  Mini desafíos Clase 1.6
 
- [Abrir Mini desafíos Clase 1.6 en Google Colab](01_Clase_1.6_Mini_Desafios_Colab.ipynb)
+ [Abrir Mini desafíos Clase 1.6 en Google Colab](Clase_1.6_Mini_Desafios_Colab.ipynb)
 
 ---
 
@@ -90,7 +90,7 @@ Durante la clase trabajaremos con pequeños desafíos para practicar:
 - exploración de un archivo;
 - organización de un análisis reproducible.
 
- [Abrir Mini desafíos Clase 1.7 Mini_Desafios_Colab](02_Clase_1.7_Mini_Desafios_Colab.ipynb)
+ [Abrir Mini desafíos Clase 1.7 en Google Colab](Clase_1.7_Mini_Desafios_Colab.ipynb)
 
 ---
 
