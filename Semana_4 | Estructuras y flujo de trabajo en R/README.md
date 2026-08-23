@@ -106,7 +106,7 @@ Las operaciones estarán separadas para poder observar claramente el resultado p
 
 ###  Notebook del práctico
 
- [Abrir Práctico 1.4](03_Practico_1.4_Estructuras_y_flujo_de_trabajo_en_R.ipynb)
+ [Abrir Práctico 1.4](Practico_1.4_Colab.ipynb)
 
 ###  Archivo necesario
 
