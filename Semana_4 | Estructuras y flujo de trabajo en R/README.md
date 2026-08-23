@@ -145,7 +145,7 @@ La tarea incluye ejercicios relacionados con:
 
 ###  Tarea 4
 
- [Abrir Tarea 4](04_Tarea_4_Individual.ipynb)
+ [Abrir Tarea 4](Tarea_4_.ipynb)
 
 >  **Importante:** esta actividad debe ser desarrollada de manera individual.
 
