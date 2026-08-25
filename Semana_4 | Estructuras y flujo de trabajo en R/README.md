@@ -54,7 +54,9 @@ Durante la clase resolveremos **mini desafíos en Google Colab** para aplicar in
 
 ###  Mini desafíos Clase 1.6
 
- [[Abrir Mini desafíos Clase 1.6 en Google Colab](Clase_1.6_Mini_Desafios_Colab.ipynb)](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_4%20%7C%20Estructuras%20y%20flujo%20de%20trabajo%20en%20R/Clase_1.6_Mini_Desafios_Colab.ipynb)
+ [[Abrir Mini desafíos Clase 1.6 en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_4%20%7C%20Estructuras%20y%20flujo%20de%20trabajo%20en%20R/Clase_1.6_Mini_Desafios_Colab.ipynb)
+
+
 
 ---
 
