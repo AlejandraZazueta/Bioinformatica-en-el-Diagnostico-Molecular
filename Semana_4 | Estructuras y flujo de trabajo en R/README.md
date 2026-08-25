@@ -147,7 +147,7 @@ La tarea incluye ejercicios relacionados con:
 
 ###  Tarea 4
 
- [Abrir Tarea 4](Tarea_4_.ipynb)
+[![Abrir Tarea 4 en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_4%20%7C%20Estructuras%20y%20flujo%20de%20trabajo%20en%20R/Tarea_4_.ipynb
 
 >  **Importante:** esta actividad debe ser desarrollada de manera individual.
 
