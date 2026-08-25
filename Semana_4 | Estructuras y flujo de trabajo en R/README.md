@@ -54,7 +54,7 @@ Durante la clase resolveremos **mini desafíos en Google Colab** para aplicar in
 
 ###  Mini desafíos Clase 1.6
 
- [Abrir Mini desafíos Clase 1.6 en Google Colab](Clase_1.6_Mini_Desafios_Colab.ipynb)
+ [[Abrir Mini desafíos Clase 1.6 en Google Colab](Clase_1.6_Mini_Desafios_Colab.ipynb)](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_4%20%7C%20Estructuras%20y%20flujo%20de%20trabajo%20en%20R/Clase_1.6_Mini_Desafios_Colab.ipynb)
 
 ---
 
@@ -90,7 +90,7 @@ Durante la clase trabajaremos con pequeños desafíos para practicar:
 - exploración de un archivo;
 - organización de un análisis reproducible.
 
- [Abrir Mini desafíos Clase 1.7 en Google Colab](Clase_1.7_Mini_Desafios_Colab.ipynb)
+ [[Abrir Mini desafíos Clase 1.7 en Google Colab](Clase_1.7_Mini_Desafios_Colab.ipynb)](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_4%20%7C%20Estructuras%20y%20flujo%20de%20trabajo%20en%20R/Clase_1.7_Mini_Desafios_Colab.ipynb)
 
 ---
 
@@ -106,7 +106,7 @@ Las operaciones estarán separadas para poder observar claramente el resultado p
 
 ###  Notebook del práctico
 
- [Abrir Práctico 1.4](Practico_1.4_Colab.ipynb)
+[ [Abrir Práctico 1.4](Practico_1.4_Colab.ipynb)](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_4%20%7C%20Estructuras%20y%20flujo%20de%20trabajo%20en%20R/Practico_1_4_Colab.ipynb)
 
 ###  Archivo necesario
 
