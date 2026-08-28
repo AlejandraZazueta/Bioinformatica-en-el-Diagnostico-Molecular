@@ -4,7 +4,7 @@ Durante esta semana continuaremos trabajando con **R**, utilizando **Google Cola
 
 Avanzaremos desde los principales **tipos y estructuras de datos en R** hacia la construcción de un **flujo de trabajo organizado y reproducible**.
 
----
+---  
 
 ## Objetivos de la semana
 
