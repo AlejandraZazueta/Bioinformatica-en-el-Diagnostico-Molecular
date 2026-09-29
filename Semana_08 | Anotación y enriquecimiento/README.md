@@ -30,7 +30,7 @@ En el práctico aplicaremos los conceptos revisados en clase para analizar una l
 
 En esta tarea deberán aplicar los conceptos de la semana a un caso biomédico e interpretar los resultados de un análisis de enriquecimiento.
 
- **[Abrir Tarea 9](./Tarea_9_Anotacion_Enriquecimiento.ipynb)**
+ **[Abrir Tarea 9](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_08%20%7C%20Anotaci%C3%B3n%20y%20enriquecimiento/Tarea_9_Anotacion_Enriquecimiento.ipynb)**
 
 ---
 
