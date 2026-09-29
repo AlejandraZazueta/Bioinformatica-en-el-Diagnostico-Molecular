@@ -22,7 +22,7 @@ Esta semana trabajaremos con **anotación funcional** y **análisis de enriqueci
 
 En el práctico aplicaremos los conceptos revisados en clase para analizar una lista de genes e interpretar su significado biológico mediante herramientas de anotación y enriquecimiento.
 
- **[Abrir práctico](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_08%7CIntroducci%C3%B3n%20al%20aprendizaje%20autom%C3%A1tico/Practico_Semana_8_Anotacion_Enriquecimiento.ipynb)**
+ **[Abrir práctico](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_08%20%7C%20Anotaci%C3%B3n%20y%20enriquecimiento/Practico_Semana_8_Anotacion_Enriquecimiento.ipynb)**
 
 ---
 
