@@ -33,9 +33,9 @@ El notebook incluye código y preguntas de interpretación que trabajaremos dura
 
 ### Abrir en Google Colab
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_09/Practico_2_4_Control%20de%20caliad%20de%20secuencias.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejandraZazueta/Bioinformatica-en-el-Diagnostico-Molecular/blob/main/Semana_09/Practico_2_4_Control%20de%20calidad%20de%20secuencias.ipynb)
 
-**Archivo:** `Practico_2_4_Control de caliad de secuencias.ipynb`
+**Archivo:** `Practico_2_4_Control de calidad de secuencias.ipynb`
 
 ---
 
